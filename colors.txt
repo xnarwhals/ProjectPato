@@ -1,0 +1,18 @@
+Backgrounds:
+	•	Soft Sky Blue (#A4DDED): To represent clear skies and give a calming, open feel.
+	•	Pond Green (#87CBA3): A natural green for grassy areas or pond scenes.
+	•	Sunset Orange (#F6A623): For evening scenes or warm highlights.
+	•	Golden Yellow (#FFD700): Symbolizing the duck’s feathers, warm and bright.
+
+UI:
+	•	Quack Yellow (#FFEB3B): A cheerful yellow for buttons and key highlights, representing ducks.
+	•	Warm Brown (#A67C52): A soft earthy tone for text boxes or UI elements, offering contrast.
+	•	Soft White (#F8F8FF): For dialogue text or subtle highlights, keeping the UI clean.
+
+Text:
+	•	Dark Charcoal (#333333): A neutral, dark color for text, providing good contrast against lighter backgrounds.
+	•	Duckling Orange (#FF8C00): A playful orange for character names or emphasis.
+
+Shadowing: 
+	•	Shadow Gray (#B0B0B0): A soft shadow color to create depth in UI elements like dialogue boxes.
+	•	Muted Navy Blue (#2C3E50): For darker environments or backgrounds that need a more serious tone.

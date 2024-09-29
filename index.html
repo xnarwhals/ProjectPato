@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duck Diaries</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main-menu" class="screen">
+        <h1>Duck Diaries</h1>
+        <div class="name-area">
+            <label for="name">Player Name:</label>
+            <input type="text" id="name-input" placeholder="Drake">
+        </div>
+        <button id="start-btn">Start Game</button>
+    </div>
+
+    <div id="game-screen" class="screen" style="display: none;">
+        <img id="background" src="Assets/Images/TestBG.png" alt="Home Scene">
+        <div id="dialogue-box">
+            <p id="dialogue-text"></p>
+            <p id="character-name"></p>
+            <img id="character-head" src="" alt="Fresh Duck">
+            <button id="next-btn">Next</button>
+        </div>
+        
+    </div>
+    <script src="duck.js"></script>
+</body>
+</html>

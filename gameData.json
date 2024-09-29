@@ -1,0 +1,16 @@
+[
+    {
+      "background": "Assets/Images/TestBG.png",
+      "dialogues": [
+        { "name": "characterName", "text": "Wassup Dog..." },
+        { "name": "Suki", "text": "Are you ready to quack your way through this journey?" }
+      ]
+    },
+    {
+      "background": "Assets/Images/TestBG.png",
+      "dialogues": [
+        { "name": "Tori", "text": "I think I like someone here." },
+        { "name": "Tori", "text": "But I'm too shy to say anything..." }
+      ]
+    }
+]
